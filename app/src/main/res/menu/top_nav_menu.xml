@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfaId"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/tvDizileriId"
+        android:title="TV Dizileri" />
+    <item
+        android:id="@+id/filmlerId"
+        android:title="Filmler" />
+    <item
+        android:id="@+id/cocukId"
+        android:title="Çocuk" />
+</menu>
